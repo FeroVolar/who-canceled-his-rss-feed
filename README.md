@@ -9,4 +9,5 @@
 * [Rackspace Developer Blog](https://docs.rackspace.com/blog)
 * [Rancher Blog](https://rancher.com/)
 * [Startup Stock Photos](http://startupstockphotos.com/)
-* [Yesware Blog](https://www.yesware.com/blog//)
+* [Yesware Blog](https://www.yesware.com/blog/)
+* [Mirantis Blog](https://www.mirantis.com/blog/)
