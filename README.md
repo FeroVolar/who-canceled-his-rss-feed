@@ -1,6 +1,7 @@
 # who-canceled-his-rss-feed
 
 * [Alcide Blog](https://www.alcide.io/alcide-blog/)
+* [Cloud 66 Blog](https://blog.cloud66.com/)
 * [CloudBees Blog](https://www.cloudbees.com/blog/)
 * [Dashbird blog](https://dashbird.io/blog/)
 * [DigitalOcean Blog](https://www.digitalocean.com/blog)
