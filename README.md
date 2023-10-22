@@ -7,6 +7,7 @@
 * [DigitalOcean Blog](https://www.digitalocean.com/blog)
 * [Ghost Dev blog](https://dev.ghost.org/)
 * [Mirantis Blog](https://www.mirantis.com/blog/)
+* [Miro Blog](https://miro.com/blog/)
 * [Oracle MySQL Blog](https://blogs.oracle.com/mysql/)
 * [ProductPlan blog](https://www.productplan.com/blog/)
 * [Rackspace Developer Blog](https://docs.rackspace.com/blog)
